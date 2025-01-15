@@ -22,7 +22,7 @@ namespace Bitrate_Exercise
         [JsonProperty("Rx")]
         public long Rx { get; set; }
 
-        [JsonProperty("Tx", NullValueHandling = NullValueHandling.Ignore)]
+        [JsonProperty("Tx")]
         public long Tx { get; set; }
 
         public double CalculatedBitrate(double pollingRate)
