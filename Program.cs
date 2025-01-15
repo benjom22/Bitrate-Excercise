@@ -4,7 +4,7 @@ class Program
     static void Main()
     {
         string filePath = "C:\\Users\\benjo\\source\\repos\\Bitrate Exercise\\deviceInfo.json";
-        double poolingRate = 2.0;
+        double poolingRate = 0.5;
 
         try
         {
