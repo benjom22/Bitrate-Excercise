@@ -31,7 +31,7 @@ class Program
             Console.WriteLine($"NIC: {nic.Description}");
             Console.WriteLine($"MAC: {nic.MAC}");
             Console.WriteLine($"Timestamp: {nic.Timestamp}");
-            Console.WriteLine($"Bitrate: {nic.CalculatedBitrate(poolingRate)} bps");
+            Console.WriteLine($"Total Bitrate: {nic.CalculatedBitrate(poolingRate)} bps");
         }
     }
 }
