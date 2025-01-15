@@ -1,0 +1,17 @@
+C:\Users\benjo\source\repos\Bitrate Exercise\bin\Debug\net7.0\Bitrate Exercise.exe
+C:\Users\benjo\source\repos\Bitrate Exercise\bin\Debug\net7.0\Bitrate Exercise.deps.json
+C:\Users\benjo\source\repos\Bitrate Exercise\bin\Debug\net7.0\Bitrate Exercise.runtimeconfig.json
+C:\Users\benjo\source\repos\Bitrate Exercise\bin\Debug\net7.0\Bitrate Exercise.dll
+C:\Users\benjo\source\repos\Bitrate Exercise\bin\Debug\net7.0\Bitrate Exercise.pdb
+C:\Users\benjo\source\repos\Bitrate Exercise\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.csproj.AssemblyReference.cache
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.AssemblyInfoInputs.cache
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.AssemblyInfo.cs
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.csproj.CoreCompileInputs.cache
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.csproj.CopyComplete
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.dll
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\refint\Bitrate Exercise.dll
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.pdb
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\Bitrate Exercise.genruntimeconfig.cache
+C:\Users\benjo\source\repos\Bitrate Exercise\obj\Debug\net7.0\ref\Bitrate Exercise.dll

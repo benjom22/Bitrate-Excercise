@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5djSG036aGbeQeJXz2PKfH+quKwceJ8O61xtp/6r03W1ugM4KI2NeUEG9rw9dnoJ7qLjvV6zRq8bbNdmaIsb+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benjo\\source\\repos\\Bitrate Exercise\\Bitrate Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benjo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
