@@ -27,7 +27,7 @@ namespace Bitrate_Exercise
 
         public double CalculatedBitrate(double pollingRate)
         {
-            return (Rx + Tx) * pollingRate;
+            return (Rx + Tx) * pollingRate * 8;
         }
     }
 
